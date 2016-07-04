@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+
+html, body{
+    font-size: 16px;
+    font-family: verdana, serif;
+}
+
+#container{
+    display: block;
+    font-size: 48px;
+    margin: 50px auto;
+    padding: 50px;
+    background: #eeeeee;
+    word-break: break-word;
+}
+
+
